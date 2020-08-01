@@ -7,6 +7,8 @@ public class HelloB20 {
             sum +=i;
         }
         System.out.println(sum);
+        
+        System.out.println("Let is finish todays class");
 
 
 
